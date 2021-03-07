@@ -2,7 +2,7 @@
 ## Author
 Juma Allan
 ## Description
-Its a website that expalins more about Anitas kitchen and speciality they do offer
+Its a website that expalins more about Anitas kitchen and speciality they do offer at thier restaurant.
 ### Prerequisites
 You need to have git installed
 You can install it with the following command in your terminal
