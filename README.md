@@ -1,4 +1,4 @@
-# Anitas Kitchen
+# Anita's Kitchen
 ## Author
 Juma Allan
 ## Description
